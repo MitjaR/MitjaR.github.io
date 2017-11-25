@@ -6,7 +6,7 @@ permalink: /markdown/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Moj link](https//sciencehackday.org/).
 
 There should be whitespace between paragraphs.
 
